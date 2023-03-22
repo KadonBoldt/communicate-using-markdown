@@ -12,3 +12,7 @@ public class HelloWorld {
   }
 }
 ```
+- [x] Wake up
+- [ ] Eat breakfast
+- [x] Do homework
+- [ ] Have an existential crisis
